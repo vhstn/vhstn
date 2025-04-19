@@ -10,7 +10,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-b-09a793224"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://open.spotify.com/user/yyd0aojl893exdqs0kj5all6e?si=0347bb1a0c5a45cd"><img width="32px" alt="Spotify" title="Spotify" src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png"/></a>
 </p>
+
 <br>
 
 ### 🌎 About Me
