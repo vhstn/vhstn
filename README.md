@@ -20,10 +20,6 @@
 - 🚀 Passionate about backend development and building scalable applications
 - 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com)
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yyd0aojl893exdqs0kj5all6e&cover_image=true&theme=novatorem" alt="Victor's Spotify Recently Played" />
-</p>
-
 <br>
 
 ## My Skill Set  
