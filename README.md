@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/victorbrandao">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=7b1e3c&height=180&section=header&text=Victor%20Brandão&fontSize=40&fontAlignY=50&fontColor=FFFFFF" alt="Victor Brandão"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=45050a&height=180&section=header&text=Victor%20Brandão&fontSize=40&fontAlignY=50&fontColor=FFFFFF" alt="Victor Brandão"/>
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7B1E3C&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Victor+Brandão;Junior+Systems+Developer;Passionate+about+Java,+Spring+and+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f75c7e&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Victor+Brandão;Junior+Systems+Developer;Passionate+about+Java,+Spring+and+Web+Development)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
@@ -43,7 +43,6 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   </div></td><td valign="top" width="33%">
 
   ### Tools  
