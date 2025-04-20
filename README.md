@@ -53,3 +53,11 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   </div></td></tr></table>  
 </details>
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <a href="https://github.com/vhstn">
+    <img src="https://github-readme-stats.vercel.app/api?username=vhstn&show_icons=true&theme=transparent" alt="seu-username" align="center" />
+  </a>
+</details>
