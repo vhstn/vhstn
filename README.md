@@ -13,7 +13,7 @@
   <a href="https://open.spotify.com/user/yyd0aojl893exdqs0kj5all6e?si=0347bb1a0c5a45cd"><img width="32px" alt="Spotify" title="Spotify" src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png"/></a>
 </p>
 
-<br>
+[![GitHub vhstn](https://img.shields.io/github/followers/vhstn?label=follow&style=social)](https://github.com/vhstn)
 
 ### 🌎 About Me
 - 📍 Based in Blumenau, Brazil
@@ -21,8 +21,6 @@
 - 💻 Focused on Java, Spring Framework, and Web Development
 - 🚀 Passionate about backend development and building scalable applications
 - 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com)
-
-<br>
 
 <details> 
   <summary><h2>🛠️ My Skill Set</h2></summary>
