@@ -1,9 +1,11 @@
+<!-- Name -->
 <p align="center">
   <a href="https://github.com/victorbrandao">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=45050a&height=180&section=header&text=Victor%20Brandão&fontSize=40&fontAlignY=50&fontColor=FFFFFF" alt="Victor Brandão"/>
   </a>
 </p>
 
+<!-- Infos -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f75c7e&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Victor+Brandão;Junior+Systems+Developer;Passionate+about+Java,+Spring+and+Web+Development)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
@@ -13,14 +15,16 @@
   <a href="https://open.spotify.com/user/yyd0aojl893exdqs0kj5all6e?si=0347bb1a0c5a45cd"><img width="32px" alt="Spotify" title="Spotify" src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png"/></a>
 </p>
 
+<!-- Follow me -->
 [![GitHub vhstn](https://img.shields.io/github/followers/vhstn?label=follow&style=social)](https://github.com/vhstn)
 
+<!-- About me -->
 ### 🌎 About Me
-- 📍 Based in Blumenau, Brazil
-- 🎓 Studying Systems Analysis and Development at IFSC
-- 💻 Focused on Java, Spring Framework, and Web Development
-- 🚀 Passionate about backend development and building scalable applications
-- 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com)
+- 📍 Based in Blumenau, Brazil.
+- 🚀 Working as a Full Stack Developer at Lince Tech.
+- 🎓 Studying Systems Analysis and Development at Insituto Federal de Santa Catarina.
+- 💻 Focused on Java, Spring, Angular, and Web Development.
+- 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com).
 
 <details> 
   <summary><h2>🛠️ My Skill Set</h2></summary>
