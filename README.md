@@ -18,7 +18,7 @@
 <!-- Follow me -->
 [![GitHub vhstn](https://img.shields.io/github/followers/vhstn?label=follow&style=social)](https://github.com/vhstn)
 
-<!-- About me -->
+<!-- About Me -->
 ### 🌎 About Me
 - 📍 Based in Blumenau, Brazil.
 - 🚀 Working as a Full Stack Developer at Lince Tech.
