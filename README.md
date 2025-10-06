@@ -6,7 +6,7 @@
 </p>
 
 <!-- Infos -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f75c7e&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Victor+Brandão;Junior+Systems+Developer;Passionate+about+Java,+Spring+and+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f75c7e&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Victor+Brandão;Junior+Systems+Developer;Passionate+about+React,+Python+and+Web+Development)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
@@ -23,7 +23,7 @@
 - 📍 Based in Blumenau, Brazil.
 - 🚀 Working as a Full Stack Developer at Lince Tech.
 - 🎓 Studying Systems Analysis and Development at Insituto Federal de Santa Catarina.
-- 💻 Focused on Java, Spring, Angular, and Web Development.
+- 💻 Focused on React, Vue.js, Python and Web Development.
 - 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com).
 
 <details> 
