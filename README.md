@@ -21,9 +21,9 @@
 <!-- About Me -->
 ### 🌎 About Me
 - 📍 Based in Blumenau, Brazil.
-- 🚀 Working as a Full Stack Developer at Lince Tech.
+- 🚀 Working as a Front-End Developer at Bivio Sistemas.
 - 🎓 Studying Systems Analysis and Development at Insituto Federal de Santa Catarina.
-- 💻 Focused on React, Vue.js, Python and Web Development.
+- 💻 Focused on Vue.js, TypeScript, Tailwind, Python and Web Development.
 - 📫 Contact me at [victorhugosotnas2@gmail.com](mailto:victorhugosotnas2@gmail.com).
 
 ## My Skill Set  
